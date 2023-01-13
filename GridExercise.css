@@ -1,0 +1,13 @@
+.container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between; 
+  background-color: pink;
+}
+
+.item {
+  flex: 0 33%;
+  height: 100px;
+  margin-bottom: 5px;
+}
+
